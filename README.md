@@ -20,7 +20,7 @@ The package Img_Processing_py is used to:
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install image_processing
 
 ```bash
-pip install Img_Processing_py
+pip install Img-Processing-py
 ```
 ## Author
 VagnerF
