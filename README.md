@@ -1,4 +1,27 @@
-# Pacotes_processamento_imagens_com_python
+# Image Processing
 
+Description. 
+The package image-Processing is used to:
+## Processing:
+- Histrogram matching
+- Structural similarity
+- Resize image
+## Utils:
+- Read image
+- Save image
+- Plot image
+- Plot results
+- Plot histograms
 
-Para ver os demais projetos deste bootcamp clique [aqui](https://github.com/VagnerF/BOOTCAMP-UNIMED-BH-CIENCIA-DE-DADOS)
+## Installation
+
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install image_processing
+
+```bash
+pip install image_processing
+```
+## Author
+VagnerF
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
