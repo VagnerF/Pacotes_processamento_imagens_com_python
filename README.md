@@ -1,7 +1,7 @@
 # Image Processing
 
 Description. 
-The package Image-Processing is used to:
+The package Img_Processing is used to:
 ## Processing:
 - Histrogram matching
 - Structural similarity
