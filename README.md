@@ -2,7 +2,7 @@
 
 Description.
  
-The package Img-Processing-py is used to:
+The package Img_Processing_py is used to:
 
 ## Processing:
 - Histrogram matching
@@ -20,7 +20,7 @@ The package Img-Processing-py is used to:
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install image_processing
 
 ```bash
-pip install Img-Processing-py
+pip install Img_Processing_py
 ```
 ## Author
 VagnerF
