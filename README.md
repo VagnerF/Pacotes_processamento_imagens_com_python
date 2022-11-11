@@ -2,7 +2,7 @@
 
 Description.
  
-The package Img_Processing_py is used to:
+The package Img-Processing-py is used to:
 
 ## Processing:
 - Histrogram matching
