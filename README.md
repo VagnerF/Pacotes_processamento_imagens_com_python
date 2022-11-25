@@ -1,3 +1,6 @@
+# DESCRIÇÃO
+Neste projeto criaremos pacote de processamento de imagens em Python e disponibilizaremos no repositório Pypi.
+
 # Image Processing py
 
 Description.
